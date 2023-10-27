@@ -2,7 +2,7 @@
 
 function Index() {
   return (
-    <div>index</div>
+    <div>Cliente</div>
   )
 }
 
