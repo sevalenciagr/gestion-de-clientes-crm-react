@@ -47,7 +47,7 @@ const NuevoCliente = () => {
 
   return (
     <>
-      <h1 className="font-black text-4xl text-blue-900">Nuevo clientes</h1>
+      <h1 className="font-black text-4xl text-blue-900">Nuevo cliente</h1>
       <p className="mt-3">Ingresa todos los campos para registrar un nuevo cliente</p>
 
       <div className="flex justify-end">
