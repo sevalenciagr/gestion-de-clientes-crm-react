@@ -1,40 +1,47 @@
 {
-    "clientes" : [
-
-        {
-            "id": 1,
-            "nombre": "Juan",
-            "telefono": 102013313,
-            "email": "juan@juan.com",
-            "empresa": "Codigo Con Juan"
-        },
-        {
-            "id": 2,
-            "nombre": "Juan",
-            "telefono": 102013313,
-            "email": "juan@juan.com",
-            "empresa": "Codigo Con Juan"
-        },
-        {
-            "id": 3,
-            "nombre": "Juan",
-            "telefono": 102013313,
-            "email": "juan@juan.com",
-            "empresa": "Codigo Con Juan"
-        },
-        {
-            "id": 4,
-            "nombre": "Juan",
-            "telefono": 102013313,
-            "email": "juan@juan.com",
-            "empresa": "Codigo Con Juan"
-        },
-        {
-            "id": 5,
-            "nombre": "Juan",
-            "telefono": 102013313,
-            "email": "juan@juan.com",
-            "empresa": "Codigo Con Juan"
-        }
-    ]
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "sebas desde react",
+      "empresa": "UN",
+      "email": "sevalenciagr@gmail.com",
+      "telefono": "(301) 733-0031",
+      "notas": "Prueba",
+      "id": 6
+    }
+  ]
 }
